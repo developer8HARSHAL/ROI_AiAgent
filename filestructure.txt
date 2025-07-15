@@ -1,0 +1,17 @@
+|-- .gitignore
+|-- @tailwindcss
+    |-- vite
+|-- eslint.config.js
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- public
+    |-- vite.svg
+|-- README.md
+|-- src
+    |-- assets
+        |-- react.svg
+    |-- index.css
+    |-- main.jsx
+    |-- RoiPlanner.jsx
+|-- vite.config.js
